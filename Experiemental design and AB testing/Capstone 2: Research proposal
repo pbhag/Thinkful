@@ -16,10 +16,16 @@ About Spotify:  - Music, video and podcast streaming service
                 
 Goals: Increase number of "Spotify Premium" subscribers, by creating locally relevant advertising campaigns
 
-Data: Using Spotify's API, we will locate the most popular streamed song/audiobook/podcast for geograhical regions where Spotify
-is available. 
+Data: Using Spotify's API, we will locate the most popular streamed artist/audiobook/podcast for geograhical regions where 
+Spotify is available. 
                 
 Hypothesis: (addresssing the Population, Intervention, Comparison, Outcome, Time = PICOT)
                 - Population: We are looking at all users of Instagram, a social media platform where Spotify can advertise 
-                  its services
-                - Intervention: We will 
+                  its services.
+                - Intervention: Based on the location of our target audience, we will create an ad that features the
+                  most popularly streamed artist, audiobook, and podcast, based on a Instagram user's location. The ad's 
+                  format will be an Instagram "multi-post", that users will be able to swipe through. There wll be a 
+                  "learn more" link under each of the respective most popular artist, audiobook, and podcast panels that takes 
+                  user's to a landing page that corresponds to a preview of a Spotify Premium page for the choice. 
+                - Comparison (Control Group): The control is a Spotify advertisement that displays the most popular artist, 
+                  audiobook, and podcast based on worldwide popularity. 
