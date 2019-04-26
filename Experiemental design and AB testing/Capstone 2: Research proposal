@@ -19,10 +19,10 @@ Goals: Increase number of "Spotify Premium" subscribers, by creating locally rel
 Data: Using Spotify's API, we will locate the most popular streamed artist/audiobook/podcast for geograhical regions where 
 Spotify is available. 
                 
-Hypothesis: (addresssing the Population, Intervention, Comparison, Outcome, Time = PICOT)
+Hypothesis: 
                 - Population: We are looking at users of Instagram, a social media platform where Spotify can advertise 
                   its services. The target audience for this experiment will be all users of Instagram in regions where 
-                  Spotify is available. 
+                  Spotify is available. The test 
                 - Intervention: Based on the location of our target audience, we will create a new ad that features the
                   most popularly streamed artist, audiobook, and podcast, based on a Instagram user's location. The ad's 
                   format will be an Instagram "multi-post", that users will be able to swipe through. There wll be a 
@@ -35,6 +35,7 @@ Hypothesis: (addresssing the Population, Intervention, Comparison, Outcome, Time
                 - Time: This test will be run for 2 weeks. At the end of the two weeks, we will look at which group, control
                   or intervention, has a higher amount of new Spotify Premium subscriptions. 
 
+Roll-out plan: 
 To analyze our outcomes (number of Spotify Premium subscriptions), users will either be subjected to the control ad, or the 
 the intervention ad. The users will be classified according to their geographical location, and then randomized into seperate,
 equal sized groups in order to reduce statistical and randomization bias, recieving either the non-geo-targeted ad (control), 
@@ -46,3 +47,8 @@ For the experiment:
 - Alternative (Experimental) hypothesis: Instagram users subjected to geo-targeted Spotify ads WILL see an increase in 
   Spotify Premium memberships compared to non-geo-targeted ads. 
 
+Evaluation plan: 
+At the end of the two weeks, we will look at the number of new Spotify Premium subscriptions associated with the control and 
+intervention groups, and perform a statistcal test to evaluate if there is a statistical difference between the cohorts. 
+Because the outcome of interest is whether there is a new subscription or not, the distribution of the test results will be 
+binary, and we will use the Mann-Whitney U-test and cross validate with the T-test in order to compare the results. 
