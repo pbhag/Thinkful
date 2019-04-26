@@ -22,10 +22,18 @@ Spotify is available.
 Hypothesis: (addresssing the Population, Intervention, Comparison, Outcome, Time = PICOT)
                 - Population: We are looking at all users of Instagram, a social media platform where Spotify can advertise 
                   its services.
-                - Intervention: Based on the location of our target audience, we will create an ad that features the
+                - Intervention: Based on the location of our target audience, we will create a new ad that features the
                   most popularly streamed artist, audiobook, and podcast, based on a Instagram user's location. The ad's 
                   format will be an Instagram "multi-post", that users will be able to swipe through. There wll be a 
                   "learn more" link under each of the respective most popular artist, audiobook, and podcast panels that takes 
                   user's to a landing page that corresponds to a preview of a Spotify Premium page for the choice. 
                 - Comparison (Control Group): The control is a Spotify advertisement that displays the most popular artist, 
-                  audiobook, and podcast based on worldwide popularity. 
+                  audiobook, and podcast based on worldwide popularity. This ad is not geo-specific. 
+                - Outcome: The outcome of interest is the number of Spotify Premium subscriptions. Specifically, we are looking
+                  to see if there is an increase in new Spotify Premium subscriptions based on the new, geo-targeted ad. 
+                - Time: This test will be run for 2 weeks. 
+
+To analyze our outcomes (number of Spotify Premium subscriptions), users will either be subjected to the control ad, or the 
+the intervention ad. The users will be classified according to their geographical location, and then randomized into seperate,
+equal sized groups in order to reduce statistical and randomization bias, recieving either the non-geo-targeted ad (control), 
+or the geo-targeted ad (Intervention). 
