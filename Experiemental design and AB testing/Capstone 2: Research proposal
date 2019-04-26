@@ -1,1 +1,25 @@
+Capstone 2: narrative analytics and experimentation
 
+The plan should consist of three key components:
+
+1. Analysis that highlights your experimental hypothesis.
+2. A rollout plan showing how you would implement and rollout the experiment
+3. An evaluation plan showing what constitutes success in this experiment
+
+For this proposal, I am going to set up an experiment dealing with Spotify and advertising.
+
+Introduction:
+About Spotify:  - Music, video and podcast streaming service
+                - Currently available in 65 countries
+                - Headquarters: Stockholm, Sweden
+                - www.Spotify.com
+                
+Goals: Increase number of "Spotify Premium" subscribers, by creating locally relevant advertising campaigns
+
+Data: Using Spotify's API, we will locate the most popular streamed song/audiobook/podcast for geograhical regions where Spotify
+is available. 
+                
+Hypothesis: (addresssing the Population, Intervention, Comparison, Outcome, Time = PICOT)
+                - Population: We are looking at all users of Instagram, a social media platform where Spotify can advertise 
+                  its services
+                - Intervention: We will 
