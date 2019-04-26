@@ -20,8 +20,9 @@ Data: Using Spotify's API, we will locate the most popular streamed artist/audio
 Spotify is available. 
                 
 Hypothesis: (addresssing the Population, Intervention, Comparison, Outcome, Time = PICOT)
-                - Population: We are looking at all users of Instagram, a social media platform where Spotify can advertise 
-                  its services.
+                - Population: We are looking at users of Instagram, a social media platform where Spotify can advertise 
+                  its services. The target audience for this experiment will be all users of Instagram in regions where 
+                  Spotify is available. 
                 - Intervention: Based on the location of our target audience, we will create a new ad that features the
                   most popularly streamed artist, audiobook, and podcast, based on a Instagram user's location. The ad's 
                   format will be an Instagram "multi-post", that users will be able to swipe through. There wll be a 
