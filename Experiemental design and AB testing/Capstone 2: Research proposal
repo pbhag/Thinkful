@@ -32,9 +32,17 @@ Hypothesis: (addresssing the Population, Intervention, Comparison, Outcome, Time
                   audiobook, and podcast based on worldwide popularity. This ad is not geo-specific. 
                 - Outcome: The outcome of interest is the number of Spotify Premium subscriptions. Specifically, we are looking
                   to see if there is an increase in new Spotify Premium subscriptions based on the new, geo-targeted ad. 
-                - Time: This test will be run for 2 weeks. 
+                - Time: This test will be run for 2 weeks. At the end of the two weeks, we will look at which group, control
+                  or intervention, has a higher amount of new Spotify Premium subscriptions. 
 
 To analyze our outcomes (number of Spotify Premium subscriptions), users will either be subjected to the control ad, or the 
 the intervention ad. The users will be classified according to their geographical location, and then randomized into seperate,
 equal sized groups in order to reduce statistical and randomization bias, recieving either the non-geo-targeted ad (control), 
 or the geo-targeted ad (Intervention). 
+
+For the experiment: 
+- Null hypothesis: Instagram users subjected to geo-targeted Spotify ads WILL NOT see an increase in Spotify Premium 
+  memberships compared to non-geo-targeted ads. 
+- Alternative (Experimental) hypothesis: Instagram users subjected to geo-targeted Spotify ads WILL see an increase in 
+  Spotify Premium memberships compared to non-geo-targeted ads. 
+
