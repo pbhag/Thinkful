@@ -22,7 +22,7 @@ Spotify is available.
 Hypothesis: 
                 - Population: We are looking at users of Instagram, a social media platform where Spotify can advertise 
                   its services. The target audience for this experiment will be all users of Instagram in regions where 
-                  Spotify is available. The test 
+                  Spotify is available. 
                 - Intervention: Based on the location of our target audience, we will create a new ad that features the
                   most popularly streamed artist, audiobook, and podcast, based on a Instagram user's location. The ad's 
                   format will be an Instagram "multi-post", that users will be able to swipe through. There wll be a 
@@ -51,4 +51,4 @@ Evaluation plan:
 At the end of the two weeks, we will look at the number of new Spotify Premium subscriptions associated with the control and 
 intervention groups, and perform a statistcal test to evaluate if there is a statistical difference between the cohorts. 
 Because the outcome of interest is whether there is a new subscription or not, the distribution of the test results will be 
-binary, and we will use the Mann-Whitney U-test and cross validate with the T-test in order to compare the results. 
+binary, and we will use the Mann-Whitney U-test and cross validate with the Z-test in order to compare the results. 
