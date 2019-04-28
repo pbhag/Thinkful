@@ -1,0 +1,33 @@
+DRILL: Make a quick research proposal
+Look back to the potential experiments in the previous assignment (CHALLENGE: Evaluate an experimental analysis). For one of those experiments, write up the essential points of a research proposal for an improved version of that experiment.
+
+Notes: 
+A "Research Proposal" is organized into 3 parts: 
+  - Define the problem
+  - Propose a hypothesis
+  - Describe the design of the experiment, the analysis plan, and set benchmarks
+  
+Experiment: A company with work sites in five different countries has sent you data on employee satisfaction rates for workers in Human Resources and workers in Information Technology. Most HR workers are concentrated in three of the countries, while IT workers are equally distributed across worksites. The company requests a report on satisfaction for each job type. You calculate average job satisfaction for HR and for IT and present the report.
+
+The problem: We want to know the satisfaction levels of employees in a company. It is possible that different departments and office locations may have different employee satisfaction levels. Lower employee satisfaction levels could lead to less productivity and employee churn, potentially effecting business results. 
+
+Hypothesis: 
+Null hypothesis: Employee satisfaction is not significantly different across different departments and locations
+Experimental hypothesis: Employee satisfaction is significantly different across different departments and locations
+
+Experiment: 
+Give employee's in the company a survey that asks them to rate their satisfaction amongst a couple of parameters. The employees will fill out a 7-question survey that asks them to rate their experience across:
+- Extrinsic rewards: Tangible rewards given to employees (salary, bonuses, etc.).
+- Supervisory support: How happy an employee is with their boss’ performance.
+- Reward fairness: How appropriately rewards are distributed among employees.
+- Autonomy: How much freedom an employee feels they have in how they do their job.
+- Corporate image: How much the employee likes the company. 75% of American employees care a great deal about the image and performance of their employer.
+- Affinity: How supported an employee feels by other employees.
+- Development:  How satisfied an employee is with the career prospects and opportunities the company provides them.
+ 
+ Source: (https://blog.hubstaff.com/measuring-employee-satisfaction-with-survey/)
+ 
+ The scores of each response of the survey will averaged and contribute to a key metric, ESI (Employee Satisfaction Index). 
+ The ESI of employees will be compared. We will compare ESI across company departments and across different office locations. 
+ 
+ To evaluate the results, we will compare the results between groups and see if there is a statistical difference. 
