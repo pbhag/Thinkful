@@ -3,6 +3,7 @@
 [Presentation slides](https://github.com/pbhag/Thinkful/blob/master/Supervised%20Learning%20Capstone:%20Wine%20Reviews/Wine%20Reviews%20powerpoint.pptx)
 
 [Jupyter notebook - analysis](https://github.com/pbhag/Thinkful/blob/master/Supervised%20Learning%20Capstone:%20Wine%20Reviews/Wine%20Reviews.ipynb)
+
 [Jupyter notebook - modeling](https://github.com/pbhag/Thinkful/blob/master/Supervised%20Learning%20Capstone:%20Wine%20Reviews/Wine_Reviews_Analysis_Final.ipynb)
 
 ### Toolkit
