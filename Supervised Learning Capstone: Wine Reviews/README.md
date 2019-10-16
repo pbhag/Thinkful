@@ -15,7 +15,7 @@
 * Predictive modeling
 
 ## Introduction
-* Project goal: to create models that will try to predict the price of of a bottle of wine or the points rating of a wine, based on wine review data
+* Project goal: to create models that will try to predict the price of a bottle of wine or the points rating of a wine, based on wine review data
 * Dataset: Scraped from Wine Enthusiast by Zach Thoutt, and posted on Kaggle. 
   * 83,495 rows of data
   * 41 different countries represented 
