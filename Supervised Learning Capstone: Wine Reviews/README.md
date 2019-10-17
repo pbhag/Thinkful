@@ -33,17 +33,19 @@
   * Created a feature called `origin` to consolidate hierarchial geographical features
   * Analyzing wine descriptions
     * Textual processing 
-    * Vectorizing processed descriptions
+    * TF-IDF vectorization of processed descriptions
 * Dimensionality reduction
-  * Singular-Value Decomposition (SVD)
-  * Principal Component Analysis (PCA)
+  * Singular-Value Decomposition (SVD) to reduce size of TF-IDF vector
+  * Principal Component Analysis (PCA) to reduce size of features independent of wine descriptions
 
 ## Modeling
+* 80-20 train-test split on dataset
+* 5-fold cross validation for parameter tuning on linear regression models
 * Evaulation metric: RMSE
 #### Target: Price
-* Best model: Random Forest Regressor 
+* Best model: Random Forest Regressor (100 estimators)
   * RMSE of +/- $1.22 per bottle of wine
 #### Target: Point rating
-* Best model: Random Forest Regressor
+* Best model: Random Forest Regressor (100 estimators)
   * RMSE of +/- 1.06 points in rating for wine, with no basis on the cost of the wine
 
