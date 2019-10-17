@@ -32,8 +32,8 @@
 * Feature engineering
   * Created a feature called `origin` to consolidate hierarchial geographical features
   * Analyzing wine descriptions
-    * Textual processing 
-    * TF-IDF vectorization of processed descriptions
+    * Text processing with regular expressions
+    * Vectorization of wine descriptions using Term frequency-inverse document frequency (TF-IDF)
 * Dimensionality reduction
   * Singular-Value Decomposition (SVD) to reduce size of TF-IDF vector
   * Principal Component Analysis (PCA) to reduce size of features independent of wine descriptions
